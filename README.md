@@ -1,3 +1,9 @@
+> ⚠️ **This repository is now archived as a legacy staging area for GitMove.**  
+> The official GitMove project continues at:  
+> 👉 [https://github.com/gitmove-cli/gitmove-cli](https://github.com/gitmove-cli/gitmove-cli)
+
+---
+
 <p align="center">
   <img src="./GitMove_TM_White_Back.png" alt="GitMove™ Logo" width="220"/>
 </p>
@@ -7,28 +13,36 @@
   <span style="font-size:115%; font-style:italic;">Git out of harm’s way.</span>
 </p>
 
-- 🚚 Use Git anywhere.  
-- 🛡️ Protect your `.git`.  
-- 🧘 Simplify your workflow.  
+---
+
+### 📜 About This Repo
+
+This repository was the original public prototype for **GitMove**, first published in **May 2025**.  
+It served as a proof of concept and staging area for branding, architecture, and early logic.
+
+To preserve authorship and commit history, this repo remains publicly visible.  
+However, no active development occurs here.
 
 ---
 
-<p align="center">
-  <em>Coming Summer 2025.</em>
-</p>
+### 🚀 Active Development Now Lives At
+
+👉 **Official GitMove CLI:**  
+[https://github.com/gitmove-cli/gitmove-cli](https://github.com/gitmove-cli/gitmove-cli)
+
+👉 **Project Website:**  
+[https://gitmove.com](https://gitmove.com) *(coming soon!)*
 
 ---
 
-### ⚖️ Licensing & Future Plans
+### ⚖️ Licensing & Trademark Notice
 
-GitMove is currently under active development, and its licensing model is still under legal review.  
-The public edition of GitMove will remain open and accessible to developers.  
-A future **GitMove Pro** edition may offer premium features for advanced users and teams.
+This repo’s content is covered under a legacy hybrid license.  
+The active GitMove CLI is now licensed under the [MIT License](https://github.com/gitmove-cli/gitmove-cli/blob/main/LICENSE.md).
 
-More information will be published here and at [GitMove.com](https://gitmove.com) *(coming soon!)* as development progresses.
+> “GitMove”, “GitMove CLI”, “GitMove Pro”, and the GitMove logo are trademarks of Mike Hans.  
+> All rights reserved. Use of these names, branding, or affiliated repositories is not granted without permission.
 
 ---
 
-> “GitMove”, “GitMove Pro”, and the GitMove logo are trademarks of Mike Hans.  
-> All rights reserved. Unauthorized commercial use of the brand or logo is prohibited.
-
+*For questions about GitMove’s authorship or development history, see [OWNERSHIP.md](https://github.com/gitmove-cli/gitmove-cli/blob/main/OWNERSHIP.md) in the CLI repo.*
