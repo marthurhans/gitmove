@@ -10,7 +10,7 @@
 
 <p align="center">
   <strong style="font-size:180%">GitMove™</strong><br>
-  <span style="font-size:115%; font-style:italic;">Git out of harm’s way.</span>
+  <span style="font-size:115%; font-style:italic;">Git out of harm’s way™</span>
 </p>
 
 ---
@@ -31,18 +31,32 @@ However, no active development occurs here.
 [https://github.com/gitmove-cli/gitmove-cli](https://github.com/gitmove-cli/gitmove-cli)
 
 👉 **Project Website:**  
-[https://gitmove.com](https://gitmove.com) *(coming soon!)*
+[https://gitmove.com](https://gitmove.com)
 
 ---
 
 ### ⚖️ Licensing & Trademark Notice
 
-This repo’s content is covered under a legacy hybrid license.  
-The active GitMove CLI is now licensed under the [MIT License](https://github.com/gitmove-cli/gitmove-cli/blob/main/LICENSE.md).
+The code and documentation in this repo were part of an early-stage GitMove prototype.  
+They are not licensed for commercial use and do not represent the active codebase.
 
-> “GitMove”, “GitMove CLI”, “GitMove Pro”, and the GitMove logo are trademarks of Mike Hans.  
-> All rights reserved. Use of these names, branding, or affiliated repositories is not granted without permission.
+The GitMove CLI will be released under the [MIT License](https://github.com/gitmove-cli/gitmove-cli/blob/main/LICENSE.md) when publicly launched.  
+That license will apply **only** to the public CLI edition and does not extend to GitMove Pro or affiliated trademarks.
+
+> “GitMove”, “GitMove CLI”, “GitMove Pro”, “Git out of harm's way”, and the GitMove logos are trademarks of Mike Hans.  
+> Use of these names, branding, or affiliated repositories is **not granted under this license** and remains protected.
 
 ---
 
-*For questions about GitMove’s authorship or development history, see [OWNERSHIP.md](https://github.com/gitmove-cli/gitmove-cli/blob/main/OWNERSHIP.md) in the CLI repo.*
+📬 For questions about licensing, authorship, or development history:  
+• Contact: [marthurhans@gitmove.com](mailto:marthurhans@gitmove.com)  
+• View: [LICENSE.md](https://github.com/gitmove-cli/gitmove-cli/blob/main/LICENSE.md)  
+• Review: [OWNERSHIP.md](https://github.com/gitmove-cli/gitmove-cli/blob/main/OWNERSHIP.md)
+
+---
+
+© 2025 Mike Hans – Creator and Maintainer of GitMove  
+GitHub: [@marthurhans](https://github.com/marthurhans)  
+Website: [https://gitmove.com](https://gitmove.com)
+
+
